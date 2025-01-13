@@ -1,4 +1,4 @@
-# Stock Insights
+# Stock Vision
 This app provides a deeper insight into stock markets and trading. As an enthusiastic trader, I frequently juggled multiple platforms to gather the needed stock information. To streamline this process, I developed an application that consolidates everything into a single, user-friendly dashboard. Designed with traders and investors in mind, this app empowers users to monitor their investments and gain valuable insights into their stocks! 
 
 ## Features
