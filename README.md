@@ -12,20 +12,9 @@ A comprehensive financial dashboard that consolidates stock market data, portfol
 
 ## Technologies and Languages Used
 **Languages**: JavaScript, HTML, CSS, JSX  
-**Framework**: React
-**Libraries**: 
-- axios (HTTP requests)
-- highcharts & highcharts-react-official (Interactive charts)
-- chart.js & react-chartjs-2 (Additional charting capabilities)
-- chartjs-adapter-date-fns (Date handling for charts)
-- chartjs-plugin-zoom (Chart zoom functionality)
-
-**APIs**: 
-- Twelve Data API (Stock prices and historical data)
-- Bing News API (Real-time news feeds)
-- Reddit API (Social sentiment and discussion threads)
-
-**Tools**: Create React App, npm, GitHub Pages deployment
+**Libraries**: axios, highcharts, react-chartjs-2, chart.js, React  
+**APIs**: Twelve Data API, Bing News API, Reddit API  
+**Tools**: npm, Create React App
 
 ## How to Run the Project
 
