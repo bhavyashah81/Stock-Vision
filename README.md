@@ -12,20 +12,13 @@ A comprehensive financial dashboard that consolidates stock market data, portfol
 
 ## Technologies and Languages Used
 **Languages**: JavaScript, HTML, CSS, JSX  
-**Libraries/Frameworks**: React, axios, Highcharts
+**Libraries/Frameworks**: React, Axios, Highcharts  
 **APIs**: Twelve Data API, Bing News API, Reddit API
 
 ## How to Run the Project
 
-### Running the Stock Dashboard
 ```bash
-npm start
-```
-
-### Using the Dashboard
-To start monitoring stocks:
-
-```bash
+npm install
 npm start
 ```
 
