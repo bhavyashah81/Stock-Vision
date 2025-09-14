@@ -23,7 +23,7 @@ npm start
 ```
 
 This will:
-- Launch the dashboard on `http://localhost:3000`
+- Launch the dashboard
 - Load saved portfolio and watchlist from browser storage
 - Enable real-time stock price tracking
 - Fetch news and Reddit discussions for selected tickers
